@@ -1,0 +1,47 @@
+==============================
+  POCKET CGPA CALCULATOR
+==============================
+Enter your Current CGPA: 3.82
+Enter your Total Completed Credit Units: 64
+
+Enter Number of Courses: 4
+
+Course 1
+Course Code: COS 202
+Credit Unit: 3
+Score: 78
+Grade: A
+Grade Point: 5
+
+Course 2
+Course Code: AAUA SEN 202
+Credit Unit: 3
+Score: 89
+Grade: A
+Grade Point: 5
+
+Course 3
+Course Code: AAUA CSC 202
+Credit Unit: 2
+Score: 67
+Grade: B
+Grade Point: 4
+
+Course 4
+Course Code: INS 204
+Credit Unit: 3
+Score: 89
+Grade: A
+Grade Point: 5
+
+==========================
+Semester Credit Units = 11
+Semester Grade Points = 53
+Semester GPA = 4.82
+New CGPA = 3.97
+==========================
+Class of Degree: Second Class Upper
+
+Thank you for using the Personal Pocket CGPA Calculator.
+
+[Program finished]
